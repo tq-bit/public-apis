@@ -847,6 +847,7 @@ API | Description | Auth | HTTPS | CORS |
 | [News](https://newsapi.org/) | Headlines currently published on a range of news sources and blogs | `apiKey` | Yes | Unknown |
 | [NPR One](http://dev.npr.org/api/) | Personalized news listening experience from NPR | `OAuth` | Yes | Unknown |
 | [Spaceflight News](https://spaceflightnewsapi.net) | Spaceflight related news 🚀 | No | Yes | Yes |
+| [Tagesschau API (inofficial)](https://gist.github.com/Brawl345/d7807f30b2fdcf03333136f1214d6114) | Inofficial API for the german news channel Tagesschau | No | Yes | Unknown |
 | [The Guardian](http://open-platform.theguardian.com/) | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Yes | Unknown |
 | [The Old Reader](https://github.com/theoldreader/api) | RSS reader | `apiKey` | Yes | Unknown |
 
